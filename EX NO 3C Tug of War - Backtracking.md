@@ -33,8 +33,8 @@ Constraints:
 ```
 /*
 Program to implement Reverse a String
-Developed by: DAKSHATA G
-Register Number:  212223240021
+Developed by: Danica Christa
+Register Number:  212223240022
 */
 
 import java.util.Scanner;
